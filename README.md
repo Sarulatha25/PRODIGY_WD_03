@@ -5,7 +5,7 @@ This project was given by Prodigy Infotech as Task 3 in the domain Web Developme
 
 ## Description
 
-This project is an Tic-Tac-Toe  Web Game. 
+This project is an Tic-Tac-Toe  Web Game. It displays the player who wins the match  and tie.
 
 Languages used: HTML, CSS, JavaScript
 
