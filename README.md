@@ -9,6 +9,8 @@ This project is an Tic-Tac-Toe  Web Game. It displays the player who wins the ma
 
 Languages used: HTML, CSS, JavaScript
 
+Website Link: https://tic-tac-toe-web-game1125.netlify.app/
+
 <div align="center">
   <img src="./screenshot.png" />
 </div>
